@@ -504,8 +504,8 @@ nav ul .fa-xmark {
 }
 .work img {
    width: 100%;
-   height: 220px;        /* 🔥 FIXED HEIGHT */
-   object-fit: cover;    /* 🔥 KEEP IMAGE CLEAN */
+   height: 220px;       
+   object-fit: cover;    
    border-radius: 10px;
    display: block;
    transition: transform 0.5s;
